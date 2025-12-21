@@ -1,0 +1,25 @@
+{
+  "name": "gaming-community-forum-frontend",
+  "version": "1.0.0",
+  "description": "Frontend for Gaming Community Forum Platform using React",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "dependencies": {
+    "@mui/material": "^5.14.0",
+    "@emotion/react": "^11.11.0",
+    "@emotion/styled": "^11.11.0",
+    "axios": "^1.4.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-router-dom": "^6.14.0",
+    "socket.io-client": "^4.7.2"
+  },
+  "devDependencies": {
+    "react-scripts": "5.0.1"
+  }
+}
